@@ -38,3 +38,7 @@ Understood how to connect multiple sheets/tables and manage relationships betwee
 Learned how to design role-based analysis (openers, anchors, finishers, all-rounders, bowlers) using performance metrics.
 
 Improved my understanding of data storytelling and presenting insights visually.
+
+
+<img width="1229" height="867" alt="Screenshot 2026-03-13 205644" src="https://github.com/user-attachments/assets/95acb45d-2073-47dc-a7a3-488718ba9c49" />
+
